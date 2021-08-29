@@ -9,7 +9,7 @@ gem 'turbolinks', '5.2.1'
 gem 'jbuilder', '2.9.1'
 gem 'sdoc', '0.4.2', group: :doc
 
-group :development, :test do
+group :development do
   gem 'sqlite3', '1.3.9'
   gem 'byebug', '11.1.3'
   gem 'web-console', '2.3.0'
